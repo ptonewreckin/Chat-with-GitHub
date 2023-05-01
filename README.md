@@ -1,7 +1,7 @@
 ![Screenshot](images/example.jpg)
 # Chat-with-Github
 
-- This repository enables users to chat with GitHub repositories. The codebase uses OpenAI embeddings, langchain, and a local ChromaDB vectorized database.
+- This repository enables users to chat with GitHub repositories. The codebase uses Streamlit, OpenAI embeddings, Langchain, and a local ChromaDB vectorized database.
 - This repository is largely based on the work of:
 	- [Chat-with-github-Repo](https://github.com/peterw/Chat-with-Github-Repo)
 	- [Chat-with-Github-Repo-Pinecone-version](https://github.com/sai-krishna-msk/Chat-with-Github-Repo-Pinecone-version)
@@ -15,6 +15,6 @@
 - streamlit run app.py
 
 # Credits
-[Peter](https://github.com/peterw)
-[Sai](https://github.com/sai-krishna-msk)
+- [Peter](https://github.com/peterw)
+- [Sai](https://github.com/sai-krishna-msk)
 
